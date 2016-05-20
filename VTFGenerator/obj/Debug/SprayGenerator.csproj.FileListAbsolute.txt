@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\내꺼\Studio\SprayMaker\VTFGenerator\bin\Debug\VTFGenerator.dll
+C:\Users\Administrator\Desktop\내꺼\Studio\SprayMaker\VTFGenerator\bin\Debug\VTFGenerator.pdb
+C:\Users\Administrator\Desktop\내꺼\Studio\SprayMaker\VTFGenerator\bin\Debug\VTFGenerator.dll.CodeAnalysisLog.xml
+C:\Users\Administrator\Desktop\내꺼\Studio\SprayMaker\VTFGenerator\bin\Debug\VTFGenerator.dll.lastcodeanalysissucceeded
+C:\Users\Administrator\Desktop\내꺼\Studio\SprayMaker\VTFGenerator\bin\Debug\ManagedSquish.dll
+C:\Users\Administrator\Desktop\내꺼\Studio\SprayMaker\VTFGenerator\bin\Debug\NativeSquish_x86.dll
+C:\Users\Administrator\Desktop\내꺼\Studio\SprayMaker\VTFGenerator\bin\Debug\ManagedSquish.pdb
+C:\Users\Administrator\Desktop\내꺼\Studio\SprayMaker\VTFGenerator\bin\Debug\ManagedSquish.xml
+C:\Users\Administrator\Desktop\내꺼\Studio\SprayMaker\VTFGenerator\bin\Debug\NativeSquish_x86.pdb
+C:\Users\Administrator\Desktop\내꺼\Studio\SprayMaker\VTFGenerator\obj\Debug\SprayGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\내꺼\Studio\SprayMaker\VTFGenerator\obj\Debug\VTFGenerator.dll
+C:\Users\Administrator\Desktop\내꺼\Studio\SprayMaker\VTFGenerator\obj\Debug\VTFGenerator.pdb
